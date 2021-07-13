@@ -2,3 +2,7 @@ Introduction
 
 We can built a IoT based system which can automatically switch ON room lights and fan when at least one person is present in the room. If room is empty, the lights and fan will automatically get switch off. It also displays count of persons present in the room.
 We can build this system using Arduino and IR sensor module.
+
+Project Implementation
+When person enters the room infrared signal bounces back and get received by infrared receiver which is considered as entry.
+Therefore count is incremented. 
