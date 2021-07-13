@@ -6,3 +6,4 @@ We can build this system using Arduino and IR sensor module.
 Project Implementation
 When person enters the room infrared signal bounces back and get received by infrared receiver which is considered as entry.
 Therefore count is incremented. 
+
